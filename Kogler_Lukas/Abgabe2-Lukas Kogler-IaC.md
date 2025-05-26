@@ -59,7 +59,7 @@ So sieht ein typischer Ablauf aus:
 3. Pipeline startet – z.B. durch einen Commit
 4. Tool liest den Code und stellt alles bereit
 
-![Grafik1_Abgabe2](biti-vica-ss25-bb-1/Kogler_Lukas/assets/)
+![Grafik1_Abgabe2](biti-vica-ss25-bb-1/Kogler_Lukas/assets/Grafik1_Abgabe2.png)
 
 ---
 
